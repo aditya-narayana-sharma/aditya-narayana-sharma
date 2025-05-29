@@ -1,27 +1,30 @@
-👋 Hi, I’m @aditya-narayana-sharma
+# 👋 Hi, I'm Aditya Narayana Sharma
 
+## 🚀 About Me
 
-👀 I’m interested in 
-  - open-source, 
-  - machine learning, and 
-  - IoT Home Assistant development
-  - NAS development
+- 🎓 **M. Sc. MME CAME** from RWTH Aachen University  
+- 🎓 **B. Tech. Mechatronics Engineering** from UPES  
+- 💼 **Data Scientist | Data Analyst | BI Analyst | Simulation Engineer | IoT Enthusiast**
 
+## 🛠️ Skills & Interests
 
-🌱 I’m currently learning 
-- Kubernetes and Streamlit
+- 🐍 Python
+- 🤖 Machine Learning
+- 🧠 AI-Agents
+- 📊 Operations Analytics
+- 📈 Performance Analytics
+- 🌐 IoT
 
+## 💡 Projects & Focus Areas
 
-💞️ I’m looking to collaborate on data-driven dashboards, AI-driven trading systems, and IoT/Home Automation Dashboards
+- **Stock-Dashboard**  
+  📊 Track NIFTY & NASDAQ (⚠️ W.I.P.)  
+  🔍 Market Analytics
 
+- **AI-Portfolio Manager**  
+  🤝 MCP Integration + LLM-support + API Integration  
+  💹 Algorithmic Trading
 
-📫 How to reach me: 
-· aditya.sharma@rwth-aachen.de 
-· www.linkedin.com/in/aditya-sharma-31640b94
+---
 
-😄 Pronouns: he/him
-
-<!---
-aditya-narayana-sharma/aditya-narayana-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 🔗 Let's connect and collaborate on data, analytics, and intelligent systems!
