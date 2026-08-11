@@ -34,20 +34,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/aditya-narayana-sharma/Investment-Dashboard/Visual-Overhaul/artifacts/audits/2026-08-09/screenshots/03-intelligence-desktop.png" width="80%" alt="Investment Dashboard — four workspaces and Market Intelligence sections" />
 </p>
-<table align="center">
-<tr>
-<td align="center" width="33%"><img src="https://raw.githubusercontent.com/aditya-narayana-sharma/Investment-Dashboard/Visual-Overhaul/artifacts/design-qa/theme-mobile-black.png" width="100%" alt="Black theme on iPhone" /></td>
-<td align="center" width="33%"><img src="https://raw.githubusercontent.com/aditya-narayana-sharma/Investment-Dashboard/Visual-Overhaul/artifacts/design-qa/theme-mobile-dark.png" width="100%" alt="Dark theme on iPhone" /></td>
-<td align="center" width="33%"><img src="https://raw.githubusercontent.com/aditya-narayana-sharma/Investment-Dashboard/Visual-Overhaul/artifacts/design-qa/theme-mobile-sepia.png" width="100%" alt="Sepia theme on iPhone" /></td>
-</tr>
-<tr>
-<td align="center"><sub>⬛ <b>Black</b> — OLED, night use</sub></td>
-<td align="center"><sub>🌑 <b>Dark</b> — default desk theme</sub></td>
-<td align="center"><sub>📜 <b>Sepia</b> — daylight reading</sub></td>
-</tr>
-</table>
-
-<p align="center"><sub>Same Market Intelligence workspace across all three themes on iPhone</sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya-narayana-sharma/Investment-Dashboard/Visual-Overhaul/artifacts/audits/2026-08-09/screenshots/07-intelligence-mobile.png" width="19%" alt="Investment Dashboard — Market Intelligence on iPhone" />
+</p>
 
 A **private, local-first portfolio intelligence platform for Indian equities** — a themeable dashboard running on a Mac, mirrored to a native iPhone app over a private Tailscale network. Live Zerodha Kite portfolio data sits alongside Axis Research briefs, a newsletter digest, macro scenarios and local podcast notes.
 
